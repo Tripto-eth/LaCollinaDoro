@@ -14,7 +14,7 @@ Benvenuti nel repository ufficiale del tema WordPress custom per il ristorante *
 
 * **Design Custom a Blocchi**: Sviluppato utilizzando le tecnologie più recenti di WordPress (Full Site Editing).
 * **Menù Digitale Dinamico**: Gestione semplificata delle portate direttamente dal pannello admin.
-* **Integrazione Menù PDF**: Caricamento e visualizzazione del menù cartaceo in formato PDF per una consultazione rapida [Download Menù](assets/menu.pdf).
+* **Integrazione Menù PDF**: Caricamento e visualizzazione del menù cartaceo in formato PDF per una consultazione rapida [Download Menù](assets/MENU_TRIP.pdf).
 * **Performance Ottimizzate**: Asset leggeri e codice pulito per un caricamento istantaneo.
 * **Mobile First**: Ottimizzazione specifica per smartphone, ideale per i clienti che cercano il ristorante in mobilità.
 
