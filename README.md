@@ -22,6 +22,19 @@ Benvenuti nel repository ufficiale del tema WordPress custom per il ristorante *
 ## 📖 Il Menù: Esperienza Digitale & PDF
 Per La Collina d'Oro ho curato un'esperienza di consultazione del menù a due livelli, pensata per ogni tipo di cliente:
 
+<details>
+  <summary>📸 Clicca qui per vedere le sezioni del menù</summary>
+  
+  ### COPERTINA
+  ![Copertina](assets/menu1.png)
+  
+  ### Piatti
+  ![Piatti](assets/menu2.png)
+
+  ### Eventi
+  ![Eventi](assets/menu3.png)
+</details>
+
 * **Menù Digitale Integrato**: Realizzato direttamente con i blocchi nativi di WordPress per garantire una lettura perfetta da smartphone, con testi leggibili e caricamento immediato.
 * **Versione PDF Professionale**: Ho realizzato e integrato una versione PDF scaricabile, ottimizzata per la stampa e per chi desidera una consultazione offline fedele all'identità visiva del ristorante.
     * **User Experience**: Il link al PDF è posizionato strategicamente nell'header e nel footer per un accesso rapido.
